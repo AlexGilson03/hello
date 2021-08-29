@@ -12,6 +12,9 @@
 
      printf("Alex!\n");
      printf("Computer Science\n");
+     printf("Caden\n");
+     printf("Computer Science\n");
+     
      return 0;
 
  }
